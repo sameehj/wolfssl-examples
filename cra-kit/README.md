@@ -254,10 +254,14 @@ distributor obligations. See [`CRA-Compliance-Shortlist.md`](CRA-Compliance-Shor
 legal/structural decisions, not artefacts.
 
 **Are we outside the EU? (US / Asia / etc.)**  
-Then you almost certainly need an **EU Authorised Representative** (Art. 18)
-appointed in writing **before** placing your product on the EU market. Either
-contract a third-party AR service or use an existing EU subsidiary. This is a
-long-lead item — start now, do not wait for September 2026.
+Then consider an **EU Authorised Representative** (Art. 18). It is **optional** —
+Art. 18(1) says a manufacturer *may* appoint one, and there is no duty even from
+outside the EU. It is still worth weighing: an AR gives you one EU contact point,
+holds your documentation inside the Union, and fixes your Art. 14(7) reporting
+end-point in a Member State you choose rather than leaving it to an importer, a
+distributor, or wherever most of your users happen to be. Either contract a
+third-party AR service or use an existing EU subsidiary. If you decide you want
+one, it is a long-lead item — start early. Your own counsel should make the call.
 
 ---
 

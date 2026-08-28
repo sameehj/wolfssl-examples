@@ -73,7 +73,7 @@ SBOMs alone make you ready:
 
 | Obligation | Article | What it means |
 |------------|---------|---------------|
-| **EU Authorised Representative** | Art. 18 | Manufacturers established **outside** the EU must appoint a written-mandated representative **inside** the EU before placing a product on the EU market. Either contract a third-party AR service or use an existing EU subsidiary. |
+| **EU Authorised Representative** | Art. 18 | **Optional.** Art. 18(1) says a manufacturer *may* appoint a written-mandated representative inside the EU; there is no duty to, even from outside the EU. Appointing one gives you a single EU contact point, puts your documentation inside the Union, and fixes your Art. 14(7) reporting end-point in a Member State you choose. Without one, that end-point falls to your importer, your distributor, or wherever most of your users are. Either contract a third-party AR service or use an existing EU subsidiary. |
 | **Product classification** | Annex III / IV | Determines whether conformity assessment is self-declared (default class) or requires a **Notified Body** (important / critical class). Notified-body queues are already long — if you may need one, get in queue early. |
 | **Conformity assessment + CE mark** | Art. 32, 30 | Module A (self-assessment) or external review per classification; CE marking before placing the product on the EU market. |
 | **Technical documentation** | Annex VII | Risk assessment, secure-design rationale, vulnerability handling process, support-period commitment — more than the SBOM. |
